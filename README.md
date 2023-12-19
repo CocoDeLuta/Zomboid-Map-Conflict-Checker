@@ -1,0 +1,1 @@
+# Zomboid-Map-Conflict-Checker
