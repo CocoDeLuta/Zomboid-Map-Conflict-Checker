@@ -16,9 +16,11 @@ The first column is the name of the map, and the second column is the cells that
 You can use spaces between the cells, but they are not necessary. The cells can be in any order, but they need to be in the same line and separated by semicolons NOT commas.
 
 Do not put any special characters (quotes or double quotes e.g.) in the cells, only letters and numbers like this:
-**GOOD:** 38x38; 44x44; 50x50
 
-**BAD:** '38x38', $44x44, '50X50', '62x62'
+**GOOD:** 38x38; 44x44; 50x50 
+
+**BAD:** '38x38', $44x44, '50X50', '62x62' 
+
 The 'x' is not a special character, so you can use it in lower case only.
 
 **EVERY CELL NEEDS TO BE ON THE FILE.**
